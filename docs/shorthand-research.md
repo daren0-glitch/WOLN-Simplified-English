@@ -2,6 +2,12 @@
 
 **Status** · Research proposal
 
+First search dictionaries, Internet usage and existing familiar short forms. AI can suggest and compare 3–5 alternatives if none fits, including letter savings, recognition and collisions. Record source and uncertainty. Traditional shorthand is a source of ideas after this search.
+
+English spelling research includes orthographic depth, opaque orthography, irregular spelling-to-sound correspondence and silent letters. Examine though, through, Wednesday, photograph, queue and colonel individually. Search existing forms before proposing alternatives. Unusual spelling alone does not require a new form.
+
+For fixed, equivalent everyday messages, investigate a 30–40% letter reduction as a research target. Count alphabetic letters in both versions, compute reduction as (original minus WOLN letters) / original letters × 100, and record word counts, readability, AI comprehension and ambiguity. Publish the sample, counting method, results and limitations. Clarity takes priority.
+
 Teeline is the main historical reference for testing typed English short forms. It uses recognizable written patterns while omitting letters that readers may be able to recover. Gregg and Pitman offer additional examples of how shorthand can represent sounds and omit selected details. WOLN experiments use ordinary text characters.
 
 ## Candidate design

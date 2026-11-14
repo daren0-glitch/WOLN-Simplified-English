@@ -20,6 +20,14 @@ WOLN is an open, English-first proposal for simpler communication among people a
 
 ## Vocabulary and ambiguous terms
 
+Any English word can optionally be abbreviated, whatever its length. Prefer existing recognizable forms such as vocab, info, app, tech, photo, comm, abbr, tmr, yday and msg. Meaning depends on context, especially for comm and other short forms.
+
+For an abbreviation request, search the Internet, dictionaries and actual usage when browsing is available. Prefer an existing recognizable form. If suitable forms are unavailable, propose 3–5 experimental candidates, normally uppercase, with letter counts, reduction percentages, possible collisions and a recommendation based on recognition. If search is unavailable, say so and mark suggestions unverified. Keep the full word. AI proposals alone do not establish common use. People choose forms and communities develop them through actual use.
+
+To interpret WOLN, understand the message without treating simplified grammar as an error. When asked, expand it into natural Standard English or convert Standard English into WOLN while preserving meaning. Ask when an ambiguity matters, and preserve unspecified tense, actors and quantities. For example, `I buy 2 app yday.` can become `I bought two apps yesterday.`
+
+Writing and reading come first. Existing English words retain familiar English pronunciation. New forms may explore Spanish-inspired regular vowels, subject to human and speech-recognition tests. Full English readings are accepted.
+
 Full English words are always usable. Prefer familiar English words, recognizable Internet forms and established short forms. Examples include `tmr` (tomorrow), `yday` (yesterday), `info` (information), `app` (software application), `tech` (technology) and `msg` (message).
 
 Vocabulary is open. Forms can move through **PROPOSED → CANDIDATE → COMMON → RECOMMENDED** as evidence supports them. Existing English usage and WOLN review status are distinct. Treat `CMPSTN` (proposed for composition) and `ALYZ` (proposed for analyze) as experimental. Use `compare` when you mean compare. `cmp` can suggest compare, comparison, composition or another context-specific meaning. `YTD` can mean year to date. Use `yday` or `yesterday` for yesterday.

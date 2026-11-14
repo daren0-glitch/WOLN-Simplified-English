@@ -4,6 +4,16 @@
 
 Full English words are always accepted. Users can try abbreviations, provide the full form for unfamiliar readers and propose entries. The lexicon records evidence and decisions for the uses it describes.
 
+Any English word can be abbreviated regardless of length. Abbreviation is optional. Prefer familiar existing forms such as `vocab` over inventing `VCBL`. `comm` and `abbr` are context-dependent and should be expanded where needed.
+
+## AI-assisted search
+
+1. Search the Internet, dictionaries and actual usage for existing forms.
+2. Prefer a suitable familiar short form. If none is suitable, suggest 3–5 candidates.
+3. Compare letter counts and reduction percentages, recognition and conflicting meanings. Recommend the clearest option and retain the full word.
+4. Mark experimental candidates in uppercase where useful, such as `ALYZ`, `CMPSTN` and proposed `ENG`. Case does not establish recognition.
+5. If search is unavailable, disclose that fact and mark findings unverified. Community use and comprehension evidence support later status changes.
+
 ## Sources in preference order
 
 1. Familiar English base words.

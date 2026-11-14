@@ -15,11 +15,18 @@ WOLN is an open proposal for using simpler English with people and AI. It keeps 
 **English First, Global Open.** · **Open Vocabulary, Natural Evolution.**  
 **Learn English. Use WOLN.** · **Short When Possible, Clear When Needed.**
 
+**Write First. Read First. Speak Naturally.**
+
+WOLN brings together simplified grammar, open vocabulary, AI-assisted abbreviation, writing first, English-based pronunciation and open community evolution. Everyone can propose improvements to grammar, vocabulary and pronunciation. People choose what to use, and communities shape common forms through practice.
+
+Any English word can be abbreviated, whatever its length, when that helps communication. Full words remain available. AI can search dictionaries and real usage first, suggest recognizable alternatives and flag ambiguity. Writing and reading come first. Speech builds on familiar English pronunciation, while Spanish-inspired regular vowels may be explored for new forms.
+
 ## Read and try WOLN
 
 - [WOLN_CONTEXT.md](WOLN_CONTEXT.md) is a standalone reference for readers and AI experiments.
 - [Core grammar](docs/core-grammar-v0.9.md) retains the G01–G60 review statuses from V0.9 Revision 2.
 - [Vision](docs/vision.md), [origins](docs/history-and-origin.md) and [comparison with Esperanto](docs/comparison-with-esperanto.md) explain the design.
+- [Manifesto](docs/manifesto.md) presents the principles in WOLN, English and Traditional Chinese.
 - [Vocabulary policy](docs/vocabulary-policy.md), [candidate lexicon](lexicon/short-words-candidates.csv) and [shorthand research](docs/shorthand-research.md) document written short forms.
 - [Spoken WOLN](docs/spoken-language.md), [basic conversations](examples/basic-conversations.md) and [English–WOLN examples](examples/english-woln-comparison.md) show how the project can be used and tested.
 - [Initial AI test evidence](research/ai-blind-test-summary.md), [grammar test plan](research/grammar-test-plan.md) and [short-word test plan](research/short-words-test-plan.md) track what has been observed and what is still planned.

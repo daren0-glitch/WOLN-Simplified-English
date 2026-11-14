@@ -2,6 +2,8 @@
 
 **Status** · Research plan. Validation pending.
 
+**Write First. Read First. Speak Naturally.** Writing and reading precede spoken standardization. Existing English words retain familiar English pronunciation. Spanish-inspired regular vowels may be explored selectively for newly proposed words and abbreviations. Full English pronunciation remains accepted.
+
 Start with familiar English sounds and accept full English pronunciation. Study shorter readings only after defining their intended written meanings. Target 1–4 syllables for new short readings. Prefer 2–3 when that helps distinguish similar forms. Familiar one-syllable words such as `app` remain usable.
 
 Use predictable sound–spelling patterns as a research inspiration, including examples from Spanish. Keep sounds recognizable to English learners, avoid unnecessarily difficult clusters and test near-homophones across accents. Written abbreviations can be read as full English words. A consonant pattern such as `CMPSTN` needs separate spoken research.

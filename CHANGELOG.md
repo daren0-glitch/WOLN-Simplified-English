@@ -1,5 +1,11 @@
 # Changelog
 
+## V1.0 Draft — Revision 1
+
+- Expanded the open framework, writing-first approach and English-based pronunciation.
+- Added AI search-first abbreviation guidance, spelling research, letter-reduction methodology and a three-language manifesto.
+- Added vocabulary candidates while preserving earlier statuses and grammar review decisions.
+
 ## V1.0 Draft · Documentation and research
 
 - Added the standalone [WOLN context](WOLN_CONTEXT.md), expanded the project vision and documented its origins.

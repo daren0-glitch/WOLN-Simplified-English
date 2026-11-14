@@ -2,6 +2,10 @@
 
 **V1.0 Draft**
 
+**Write First. Read First. Speak Naturally.**
+
+The open framework connects simplified grammar, open vocabulary, AI-assisted abbreviation, writing first, English-based pronunciation and community evolution. Everyone can propose improvements. People choose and share forms, and communities develop common usage. Any English word can be abbreviated optionally, whatever its length. AI searches existing usage and suggests alternatives while people judge clarity. Familiar English pronunciation is the starting point, and new forms may explore Spanish-inspired regular vowels.
+
 WOLN explores how people with basic English can communicate with less grammar to memorize. It starts from everyday conversation, international exchanges among English learners and Internet writing. It gives users a shared option for short messages and AI prompts while respecting Standard English, including its literary and cultural uses.
 
 ## Design principles

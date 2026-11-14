@@ -14,3 +14,7 @@ appointment,appt,Established English abbreviation,CANDIDATE,I have appt at 14:00
 composition,CMPSTN,Experimental WOLN candidate,PROPOSED,Review photo CMPSTN.,V1.0 Draft project order; expand to composition for unfamiliar readers
 analyze,ALYZ,Experimental WOLN candidate,PROPOSED,ALYZ 3 photo.,V1.0 Draft project order; the case variant Alyz was uncertain in GPT-6 Part A item 18
 compare,compare,Familiar full English word,,Compare 2 photo.,Full-form reference; WOLN short-form review stages do not apply
+vocabulary,vocab,Established English short form,CANDIDATE,Build vocab.,Existing form; audience recognition to be tested
+communication,comm,Existing abbreviation,CANDIDATE,Read comm plan.,Ambiguous across domains; expand when needed
+abbreviation,abbr,Existing abbreviation,CANDIDATE,Use abbr.,Dictionary label and abbreviation; context matters
+English,ENG,Experimental WOLN candidate,PROPOSED,Read ENG text.,ENG also indicates engineering and other meanings
