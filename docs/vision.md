@@ -1,19 +1,28 @@
 # Vision
 
-**V0.8 Draft**
+**V1.0 Draft**
 
-WOLN explores a practical question. How much can everyday English be simplified while remaining easy to recognize for people who already know some English?
+**Write First. Read First. Speak Naturally.**
+
+The open framework connects simplified grammar, open vocabulary, AI-assisted abbreviation, writing first, English-based pronunciation and community evolution. Everyone can propose improvements. People choose and share forms, and communities develop common usage. Any English word can be abbreviated optionally, whatever its length. AI searches existing usage and suggests alternatives while people judge clarity. Familiar English pronunciation is the starting point, and new forms may explore Spanish-inspired regular vowels.
+
+WOLN explores how people with basic English can communicate with less grammar to memorize. It starts from everyday conversation, international exchanges among English learners and Internet writing. It gives users a shared option for short messages and AI prompts while respecting Standard English, including its literary and cultural uses.
 
 ## Design principles
 
-- **English first.** Prefer familiar English vocabulary, recognizable English word order and English-like pronunciation.
-- **Keep meaning explicit.** Keep the subject, action, quantity, time, and references clear even when grammatical markers are omitted.
-- **Allow full forms.** A reader can use `tomorrow` in place of `tmr` at any time. Short forms are useful when they make the message easier or faster to read and write.
-- **Borrow selectively.** Global languages, Internet usage and human–AI communication can suggest useful simplifications. Prefer forms whose meaning can be understood without learning many unfamiliar words.
-- **Develop writing first.** Review the written draft and test spoken short forms on their own evidence.
+- **Simplified English.** Prefer familiar English vocabulary, recognizable sentence order and English-like pronunciation.
+- **Flexible grammar.** Make inflections and function words optional where readers can still recover the intended meaning. Preserve quantity, time, negation, direction, conditions and identity.
+- **Intuitive speech.** Keep full English pronunciation compatible and test shorter spoken forms separately from writing.
+- **Open vocabulary.** Users can propose forms and record evidence from real usage. Global language influences are welcome when they make communication easier.
 
-WOLN is an open language research project. Its grammar and vocabulary are community-reviewable proposals. Practical review starts with messages, instructions and everyday exchanges from readers with different first languages.
+The priorities are meaning, clarity, English familiarity, simplicity and shortness, in that order.
+
+**Meaning First, Grammar Second.** · **English First, Global Open.**  
+**Open Vocabulary, Natural Evolution.** · **Learn English. Use WOLN.**  
+**Short When Possible, Clear When Needed.**
+
+See [history and origins](history-and-origin.md), [core grammar](core-grammar-v0.9.md) and [research methods](../research/grammar-test-plan.md).
 
 ## 繁體中文補充
 
-優先使用熟悉的英文詞彙，讓跨語言讀者能從原本的英語知識理解簡化寫法。精簡的同時，仍要保留人、事、時間、數量與指涉。
+先使用讀者已經熟悉的英文。語法可彈性簡化，句意所需的時間、數量、否定、方向、條件與指涉仍須清楚。短詞和口語短讀的理解度須透過實際使用及測試確認。

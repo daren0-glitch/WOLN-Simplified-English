@@ -1,5 +1,17 @@
 # Changelog
 
+## V1.0 Draft — Revision 1
+
+- Expanded the open framework, writing-first approach and English-based pronunciation.
+- Added AI search-first abbreviation guidance, spelling research, letter-reduction methodology and a three-language manifesto.
+- Added vocabulary candidates while preserving earlier statuses and grammar review decisions.
+
+## V1.0 Draft · Documentation and research
+
+- Added the standalone [WOLN context](WOLN_CONTEXT.md), expanded the project vision and documented its origins.
+- Kept the V0.9 Revision 2 grammar baseline and recorded the open vocabulary policy, written shorthand candidates and speech research plan.
+- Archived the original GPT-6 blind-test response, later self-grade and historical test materials. Added the [pilot evidence summary](research/ai-blind-test-summary.md) and separate grammar and short-word test plans.
+
 ## V0.9 Revision 2 · Grammar review draft
 
 - Added the [English specification](docs/grammar-v0.9-revision-2.md) and [Traditional Chinese source](docs/grammar-v0.9-revision-2.zh-TW.md) with rule IDs G01–G60 and their review statuses.

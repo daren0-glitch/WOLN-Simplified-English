@@ -2,41 +2,39 @@
 
 **World Open Language for the Internet and AI Era**
 
-**V0.8 Draft · 2026-11-11**
+**V1.0 Draft** · Open language research · **Meaning First, Grammar Second.**
 
-WOLN is an open proposal for a simplified form of English for international communication on the Internet and with AI. It keeps familiar English words and word order while reducing the grammar changes and long forms a writer needs to use. The project develops a language specification through public research and community review.
+WOLN is an open proposal for using simpler English with people and AI. It keeps familiar English words, recognizable word order and English-like pronunciation. Writers can omit grammatical changes when the meaning stays clear. Full Standard English remains compatible.
 
-## How it works
-
-| Standard English | Canonical WOLN |
+| Standard English | WOLN |
 | --- | --- |
-| She sent two files yesterday. | She send 2 file yday. |
-| I will send the photo tomorrow. | I send photo tmr. |
-| Please send me that message. | Pls send me that msg. |
+| I bought two apps yesterday. | `I buy 2 app yday.` |
+| She is working now. | `She working now.` |
+| Please send me that file tomorrow. | `Please send me that file tmr.` |
 
-Use familiar English vocabulary and the subject–verb–object order where the sentence has an object. Use a base verb form across subjects and times, a number plus a singular noun for explicit counts, and time words or dates where timing matters. Canonical WOLN usually omits articles and uses words such as `this` and `that` for specific references. Full English words are always accepted. Standard English sentences are also compatible input, including their ordinary articles and inflections.
+**English First, Global Open.** · **Open Vocabulary, Natural Evolution.**  
+**Learn English. Use WOLN.** · **Short When Possible, Clear When Needed.**
 
-The examples illustrate the draft. The [starter lexicon](lexicon/core-words.csv) records each short form as a candidate for community review. WOLN is a research proposal with no claim of formal international adoption.
+**Write First. Read First. Speak Naturally.**
 
-## Read the draft
+WOLN brings together simplified grammar, open vocabulary, AI-assisted abbreviation, writing first, English-based pronunciation and open community evolution. Everyone can propose improvements to grammar, vocabulary and pronunciation. People choose what to use, and communities shape common forms through practice.
 
-- [Vision](docs/vision.md)
-- [V0.8 grammar](docs/grammar-v0.8.md)
-- [Short words](docs/short-words.md) and [starter lexicon](lexicon/core-words.csv)
-- [Basic conversations](examples/basic-conversations.md) and [English–WOLN comparisons](examples/english-woln-comparison.md)
-- [Spoken-language roadmap](docs/spoken-language-roadmap.md)
-- [Language Skill prototype](skills/woln-language/SKILL.md) (runtime validation `NOT RUN`)
+Any English word can be abbreviated, whatever its length, when that helps communication. Full words remain available. AI can search dictionaries and real usage first, suggest recognizable alternatives and flag ambiguity. Writing and reading come first. Speech builds on familiar English pronunciation, while Spanish-inspired regular vowels may be explored for new forms.
 
-## Roadmap
+## Read and try WOLN
 
-1. Refine the written rules and candidate forms using examples from international readers.
-2. Research English-like short readings, then test human comprehension and automatic speech recognition (ASR) separately.
-3. Record proposed changes, test evidence and review outcomes in GitHub and the [changelog](CHANGELOG.md).
+- [WOLN_CONTEXT.md](WOLN_CONTEXT.md) is a standalone reference for readers and AI experiments.
+- [Core grammar](docs/core-grammar-v0.9.md) retains the G01–G60 review statuses from V0.9 Revision 2.
+- [Vision](docs/vision.md), [origins](docs/history-and-origin.md) and [comparison with Esperanto](docs/comparison-with-esperanto.md) explain the design.
+- [Manifesto](docs/manifesto.md) presents the principles in WOLN, English and Traditional Chinese.
+- [Vocabulary policy](docs/vocabulary-policy.md), [candidate lexicon](lexicon/short-words-candidates.csv) and [shorthand research](docs/shorthand-research.md) document written short forms.
+- [Spoken WOLN](docs/spoken-language.md), [basic conversations](examples/basic-conversations.md) and [English–WOLN examples](examples/english-woln-comparison.md) show how the project can be used and tested.
+- [Initial AI test evidence](research/ai-blind-test-summary.md), [grammar test plan](research/grammar-test-plan.md) and [short-word test plan](research/short-words-test-plan.md) track what has been observed and what is still planned.
 
 ## Contribute
 
-Open a GitHub Issue with the source sentence, a proposed WOLN rendering and any ambiguity you observe. For substantial changes, use a separate branch and pull request for review. See [Contributing](CONTRIBUTING.md) and the [MIT License](LICENSE).
+Open a GitHub Issue with a proposed form, its full English equivalent and examples where it helps or introduces ambiguity. See [contribution guidelines](CONTRIBUTING.md), [the changelog](CHANGELOG.md) and [MIT License](LICENSE). This draft invites review of grammar and vocabulary. The project makes no claim of formal international adoption.
 
 ## 繁體中文簡介
 
-WOLN 是面向網路與 AI 時代的簡化英語公開草案。它保留常見英語詞彙與語序，允許原本的英文全形，並以時間詞、日期及數量表達關鍵資訊。V0.8 先整理書寫用法。口語短讀將另做跨語言理解與語音辨識測試。
+WOLN 是面向網路與 AI 時代的簡化英語公開草案。它保留熟悉的英文詞彙、基本語序及相近的發音，並接受完整的標準英文。V1.0 Draft 整理文法、開放詞彙與測試方法。文法審核、口語短讀及理解度驗證仍分別進行。

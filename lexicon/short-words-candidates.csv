@@ -1,0 +1,20 @@
+source_english,woln_form,source_class,woln_status,usage_example,evidence_or_ambiguity
+tomorrow,tmr,Existing Internet abbreviation,CANDIDATE,We meet tmr.,V0.8 starter lexicon; GPT-6 v0.9 Part A item 03
+yesterday,yday,Existing abbreviated form,CANDIDATE,I buy 2 app yday.,V0.8 starter lexicon; GPT-6 v0.9 Part A item 01
+information,info,Established English short form,CANDIDATE,I need more info.,V0.8 starter lexicon
+application,app,Established English short form,CANDIDATE,I use this app.,V0.8 starter lexicon; software sense
+technology,tech,Established English short form,CANDIDATE,We use new tech.,V0.8 starter lexicon; expand when the meaning is unclear
+message,msg,Existing text abbreviation,CANDIDATE,Send that msg.,V0.8 starter lexicon; GPT-6 v0.9 Part A item 11
+people,ppl,Existing text abbreviation,CANDIDATE,Ppl use this app.,V0.8 starter lexicon
+please,pls,Existing text abbreviation,CANDIDATE,Pls send this file.,V0.8 starter lexicon
+photograph,photo,Established English short form,CANDIDATE,I share this photo.,V0.8 starter lexicon
+artificial intelligence,AI,Established English initialism,CANDIDATE,We use AI to organize 3 file.,V0.8 starter lexicon; intended sense is artificial intelligence
+government,govt,Established English abbreviation,CANDIDATE,Read govt report.,V1.0 Draft project order; WOLN comprehension testing pending
+appointment,appt,Established English abbreviation,CANDIDATE,I have appt at 14:00.,V1.0 Draft project order; WOLN comprehension testing pending
+composition,CMPSTN,Experimental WOLN candidate,PROPOSED,Review photo CMPSTN.,V1.0 Draft project order; expand to composition for unfamiliar readers
+analyze,ALYZ,Experimental WOLN candidate,PROPOSED,ALYZ 3 photo.,V1.0 Draft project order; the case variant Alyz was uncertain in GPT-6 Part A item 18
+compare,compare,Familiar full English word,,Compare 2 photo.,Full-form reference; WOLN short-form review stages do not apply
+vocabulary,vocab,Established English short form,CANDIDATE,Build vocab.,Existing form; audience recognition to be tested
+communication,comm,Existing abbreviation,CANDIDATE,Read comm plan.,Ambiguous across domains; expand when needed
+abbreviation,abbr,Existing abbreviation,CANDIDATE,Use abbr.,Dictionary label and abbreviation; context matters
+English,ENG,Experimental WOLN candidate,PROPOSED,Read ENG text.,ENG also indicates engineering and other meanings
